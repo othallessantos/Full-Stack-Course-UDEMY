@@ -1,4 +1,4 @@
-#Curso em andamento.
+# Curso em andamento.
 
 Esse curso é o curso <strong>"The Complete Full-Stack Web Development Bootcamp"</strong> produzido
 pela doutora Angela Yu na plataforma Udemy. 
@@ -7,7 +7,7 @@ Eu estava conseguindo avançar bem no curso, porém não posso dar um prazo para
 do mesmo, já que o meu objetivo atual de carreira é me tornar um Back-End Developer em breve.
 
 
-#Course in progress.
+# Course in progress.
 
 This course is <strong>“The Complete Full-Stack Web Development Bootcamp”</strong>, created
 by Dr. Angela Yu on the Udemy platform. 
